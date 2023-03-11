@@ -1,2 +1,2 @@
 
-![Home Page](Home Page.png)
+Look at Home Page.png for an image of the homepage
