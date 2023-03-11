@@ -1,0 +1,21 @@
+.classContainer {
+    margin: 5px;
+}
+.imageContainer {
+    background: rgb(248,248,248);
+    padding-bottom: 7px;
+    padding-top: 8px;
+}
+.image {
+    object-fit: contain;
+    border-radius: 5px;
+    width: 94%;
+    height: 220px;
+}
+.costText {
+    font-size: 23px;
+    font-weight: 20px;
+    padding-top: 2px;
+    margin-bottom: 0px;
+    float: left;
+}

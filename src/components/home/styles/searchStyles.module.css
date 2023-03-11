@@ -1,0 +1,34 @@
+.pageBackground {
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(223, 240, 240,1) 100%);
+}
+.pagination {
+    width: max-content;
+    margin:0 auto;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.grid {
+    width: 80vw
+}
+@media only screen and (max-width : 950px) {
+    .remove1 {
+        display: none;
+    }
+    .grid{
+        width: 92vw
+    }
+}
+@media only screen and (min-width : 950px) {
+    .remove2 {
+        display: none;
+        margin-right: 10px;
+    }
+}
+.filters{
+    float: right;
+    margin-right: 10px;
+    border: solid grey;
+    border-width: 1.5px;
+    border-radius:5px;
+}
